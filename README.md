@@ -122,4 +122,9 @@ first release.
 
 ## License
 
-Not yet chosen. Until a license file is added, no license is granted.
+[MIT](LICENSE) © 2026 logicvoid0x
+
+The warranty disclaimer is worth reading rather than skimming. This software is provided
+"as is", with no warranty of any kind and no liability accepted — which matters more than
+usual for a project that will eventually touch Bitcoin, where mistakes are irreversible and
+uninsured.
